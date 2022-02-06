@@ -1,3 +1,3 @@
 # Rainbow-poem
-this is a repo for my poem
 The Rainbow
+Life is like a rainbow and emotions are its colours
